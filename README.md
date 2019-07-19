@@ -9,6 +9,7 @@ Simple PHP Email System
  - JAVASCRIPT
  - PHP
  - MYSQL
+ - phpmyadmin
 
 I designed a simple mail system from this project. In this mail system, I checked the features of adding, deleting and changing data via mysql using PHP's PDO structure. 
 
